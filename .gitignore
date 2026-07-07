@@ -1,0 +1,11 @@
+## .NET
+backend/**/bin/
+backend/**/obj/
+
+## Node / React
+frontend/**/node_modules/
+frontend/**/build/
+
+## OS/editor
+.DS_Store
+*.user
